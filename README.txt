@@ -16,3 +16,10 @@
 * press i for editing 
 * pres esc+:+wq for save
 * git log 
+* what ever changes occured here are in the staging area to be commited
+* untill we add it to staged area
+* git restores
+* git add 
+* git restore --staged 
+* git restore
+* git commit
