@@ -11,3 +11,9 @@
 * git add <file>
 * Staging area
 * git rm --cached <file>
+* git commit 
+* vim editor open 
+* press i for editing 
+* pres esc+:+wq for save
+* git log 
+*  
