@@ -16,4 +16,3 @@
 * press i for editing 
 * pres esc+:+wq for save
 * git log 
-*  
