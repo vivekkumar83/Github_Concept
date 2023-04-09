@@ -24,3 +24,5 @@
 * git restore
 * git commit
 * git rm and git restore
+* git diff commit1 commit2
+* git commit -m "<your commit message>"
